@@ -9,3 +9,4 @@
 - git branch nome-da-branch;
 - git branch;
 - git checkout;
+- git pull branch-referencia branch-a-alterar;
