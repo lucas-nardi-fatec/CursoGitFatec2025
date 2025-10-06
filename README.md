@@ -18,3 +18,7 @@ function Test1 (){
 - "git log" para visualizar o histórico de mudanças
 
 - "git push origin main" para mandar as alterações da main no diretório remoto.
+
+- "git branch feature/lista-de-comandos" para criar uma nova branch; "git branch" para verificar se a branch foi criada; "git checkout feature/lista-de-comandos" para mudar a branch que está sendo trabalhada.
+
+- "touch LISTA.md" para criar um novo arquivo
