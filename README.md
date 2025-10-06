@@ -14,3 +14,7 @@ function Test1 (){
 }
 ```
 - no terminal, "git status" para verificar o status do repositório na máquina, "git add README.md" para adicionar o arquivo na lista de arquivos a serem incluidos no commit, e "git commit -m "atualizacao do README.md"".
+
+- "git log" para visualizar o histórico de mudanças
+
+- "git push origin main" para mandar as alterações da main no diretório remoto.
