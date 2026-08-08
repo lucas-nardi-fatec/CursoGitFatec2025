@@ -1,5 +1,5 @@
 # CursoGitFatec2025
-## O que foi feito
+## O que foi feito...
 - Repositório utilizado para acompanhar o curso de Git ministrado na Semana da Tecnologia na FATEC Sorocaba 2025.
 
 - Pasta aberta através do GitLab utilizando o comando "code README.md".
